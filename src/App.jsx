@@ -16,7 +16,7 @@ function App() {
             Listar
           </Link>
           <Link className="nav-item nav-link" to={"/new-empleados"}>
-            Agregar nuevoo
+            Agregar nuevoos
           </Link>
         </div>
       </nav>
